@@ -209,4 +209,4 @@ fabric.properties
 
 .idea
 
-# End of https://www.gitignore.io/api/django,pycharm
+src/schedule/settings/local.py
